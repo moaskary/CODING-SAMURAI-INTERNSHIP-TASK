@@ -1,6 +1,7 @@
+
 import random
 
-rand = random.randint(1,10)
+rand = random.randint(0,10)
 chance = 3
 
 
